@@ -16,10 +16,12 @@ sections:
     title: >-
       Welcome to error! opening up new perspectives on typography, illustration
       and interactive Design.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: |-
+      This
+       project trys to redefine the role of code in design, the intersection 
+      of programming and visual design through the method of Immersive Coding.
+       By developing interactive applications and tools with JavaScript, it 
+      transforms code into a tangible medium for artistic expression.
     styles:
       self:
         height: auto
