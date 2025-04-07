@@ -4,8 +4,8 @@ title: voroni
 date: '2024-12-13'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Free drawing surface, a variation of a Voronoi diagram that dynamically
+  changes through interactive mouse clicks.
 featuredImage:
   type: ImageBlock
   url: /images/10 raster -gedruckt.svg
