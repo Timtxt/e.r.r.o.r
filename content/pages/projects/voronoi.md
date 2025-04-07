@@ -1,8 +1,6 @@
 ---
 type: ProjectLayout
-title: >-
-  Free drawing surface, a variation of a Voronoi diagram that dynamically
-  changes through interactive mouse clicks.
+title: voroni
 date: '2024-12-13'
 client: Awesome client
 description: >-
