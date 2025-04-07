@@ -9,7 +9,7 @@ description: >-
   animatable.
 featuredImage:
   type: ImageBlock
-  url: /images/giw are youz a2.svg
+  url: /images/emotionbuakasten.svg
   altText: Project thumbnail image
 media:
   type: ImageBlock
