@@ -51,7 +51,8 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - url: https://emotionssvg.netlify.app/
+      - type: Link
+        url: https://emotionssvg.netlify.app/
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
     styles:
