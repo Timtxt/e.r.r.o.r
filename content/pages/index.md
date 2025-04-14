@@ -52,9 +52,8 @@ sections:
     variant: variant-b
     projects:
       - type: Link
-        url: https://emotionssvg.netlify.app/
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+        label: EmotionsSVG
+        url: "https://emotionssvg.netlify.app/"
     styles:
       self:
         height: auto
